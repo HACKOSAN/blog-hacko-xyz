@@ -25,7 +25,7 @@
 *::after {
     background-color: var(--clr-bg);
     color: var(--clr-fg);
-    font-family: Hack, hack, monospace;
+    font-family: 'JetBrains Mono', monospace
 
     scrollbar-width: none;
     -ms-overflow-style: none;
