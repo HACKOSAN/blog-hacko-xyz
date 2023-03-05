@@ -65,19 +65,19 @@ DEFAULT_CONFIG: Dict[str, Any] = {
         "pymdownx.mark",
         "pymdownx.tilde",
     ],
-    "default-keywords": ["website", "blog", "opinion", "article", "ari-web", "ari"],
-    "page-title": "Ari::web -> Blog",
+    "default-keywords": ["website", "blog", "opinion", "article", "hacko-tech", "hacko"],
+    "page-title": "Hacko -> Blog",
     "page-description": "my blog page",
     "colourscheme-type": "dark",
     "short-name": "aris blogs",
-    "home-keywords": ["ari", "ari-web", "blog", "ari-archer", "foss", "free", "linux"],
-    "base-homepage": "https://ari-web.xyz/",
+    "home-keywords": ["hacko", "hacko-tech", "blog", "hacko-san", "foss", "free", "linux"],
+    "base-homepage": "https://hacko.xyz/",
     "meta-icons": [{"src": "/favicon.ico", "sizes": "128x128", "type": "image/png"}],
     "theme-colour": "#f9f6e8",
     "background-colour": "#262220",
-    "full-name": "Ari Archer",
-    "locale": "en_GB",
-    "home-page-header": "my blogs",
+    "full-name": "Hacko",
+    "locale": "en_US",
+    "home-page-header": "Hacko Blog Page",
     "comment-url": "/c",
     "blogs": {},
 }
@@ -169,7 +169,7 @@ content="ari-web blog generator version {__version__}"/>
 
     <link
         rel="stylesheet"
-        href="/content/styles.min.css"
+        href="/content/styles.css"
         referrerpolicy="no-referrer"
         type="text/css"
         hreflang="en"
