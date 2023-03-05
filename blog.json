@@ -24,23 +24,23 @@
         "blog",
         "opinion",
         "article",
-        "ari-web",
-        "ari"
+        "hacko-tech",
+        "hacko"
     ],
-    "page-title": "Ari::web -> Blog",
+    "page-title": "Hacko -> Blog",
     "page-description": "my blog page",
     "colourscheme-type": "dark",
-    "short-name": "aris blogs",
+    "short-name": "hacko's blogs",
     "home-keywords": [
-        "ari",
-        "ari-web",
+        "hacko",
+        "hacko-tech",
         "blog",
-        "ari-archer",
+        "hacko-san",
         "foss",
         "free",
         "linux"
     ],
-    "base-homepage": "https:\/\/ari-web.xyz\/",
+    "base-homepage": "https:\/\/hacko.xyz\/",
     "meta-icons": [
         {
             "src": "\/favicon.ico",
@@ -50,8 +50,8 @@
     ],
     "theme-colour": "#f9f6e8",
     "background-colour": "#262220",
-    "full-name": "Ari Archer",
-    "locale": "en_GB",
+    "full-name": "Hacko",
+    "locale": "en_US",
     "home-page-header": "my blogs",
     "comment-url": "\/c",
     "blogs": {}
