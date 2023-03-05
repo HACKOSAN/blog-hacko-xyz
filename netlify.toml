@@ -6,6 +6,7 @@
     to = "https://github.com/HACKOSAN/blog-hacko-xyz/:splat"
     status = 301
     force = true
+    
 
 
 
