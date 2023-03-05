@@ -54,5 +54,12 @@
     "locale": "en_US",
     "home-page-header": "my blogs",
     "comment-url": "\/c",
-    "blogs": {}
+    "blogs": {
+        "welcome": {
+            "title": "V2VsY29tZQ==",
+            "content": "VGhpcyBpcyB0aGUgZmlyc3QgYmxvZyBwb3N0IG9uIEhhY2tvJ3MgUGVyc29uYWwgQmxvZywgSSdtIGdvaW5nIHRvIHRhbGsgYW5kIHBvc3QgYWJvdXQgd2hhdGV2ZXIgY29tZXMgaW50byBteSBtaW5kCgpFbmpveSEgCg==",
+            "time": 1678052896.173147,
+            "keywords": "start"
+        }
+    }
 }
