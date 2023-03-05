@@ -1,0 +1,58 @@
+{
+    "editor-command": "vim -- %s",
+    "blog-dir": "b",
+    "git-url": "\/git",
+    "py-markdown-extensions": [
+        "markdown.extensions.abbr",
+        "markdown.extensions.def_list",
+        "markdown.extensions.fenced_code",
+        "markdown.extensions.footnotes",
+        "markdown.extensions.md_in_html",
+        "markdown.extensions.tables",
+        "markdown.extensions.admonition",
+        "markdown.extensions.sane_lists",
+        "markdown.extensions.toc",
+        "markdown.extensions.wikilinks",
+        "pymdownx.betterem",
+        "pymdownx.caret",
+        "pymdownx.magiclink",
+        "pymdownx.mark",
+        "pymdownx.tilde"
+    ],
+    "default-keywords": [
+        "website",
+        "blog",
+        "opinion",
+        "article",
+        "ari-web",
+        "ari"
+    ],
+    "page-title": "Ari::web -> Blog",
+    "page-description": "my blog page",
+    "colourscheme-type": "dark",
+    "short-name": "aris blogs",
+    "home-keywords": [
+        "ari",
+        "ari-web",
+        "blog",
+        "ari-archer",
+        "foss",
+        "free",
+        "linux"
+    ],
+    "base-homepage": "https:\/\/ari-web.xyz\/",
+    "meta-icons": [
+        {
+            "src": "\/favicon.ico",
+            "sizes": "128x128",
+            "type": "image\/png"
+        }
+    ],
+    "theme-colour": "#f9f6e8",
+    "background-colour": "#262220",
+    "full-name": "Ari Archer",
+    "locale": "en_GB",
+    "home-page-header": "my blogs",
+    "comment-url": "\/c",
+    "blogs": {}
+}
