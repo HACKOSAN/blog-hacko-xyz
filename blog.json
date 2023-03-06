@@ -28,7 +28,7 @@
         "hacko"
     ],
     "page-title": "Hacko -> Blog",
-    "page-description": "my blog page",
+    "page-description": "Hacko's Personal Blog Page",
     "colourscheme-type": "dark",
     "short-name": "hacko's blogs",
     "home-keywords": [
@@ -38,7 +38,8 @@
         "hacko-san",
         "foss",
         "free",
-        "linux"
+        "linux",
+        "tech"
     ],
     "base-homepage": "https:\/\/hacko.xyz\/",
     "meta-icons": [
