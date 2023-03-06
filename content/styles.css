@@ -3,7 +3,7 @@
 :root {
     color-scheme: dark;
 
-    --clr-bg: #262220;
+    --clr-bg: #6361a8;
     --clr-fg: #f9f6e8;
 
     --clr-blockquote-fg: #e6e0c8;
@@ -11,7 +11,7 @@
 
     --blockquote-width: 2px;
 
-    --clr-code-bg: #1f1b1a;
+    --clr-code-bg: #3e3c44;
     --clr-code-fg: #f0f3e6;
     --clr-code-bg-dark: #181414;
 
