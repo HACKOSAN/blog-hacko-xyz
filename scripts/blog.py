@@ -45,7 +45,7 @@ EXIT_OK: int = 0
 EXIT_ERR: int = 1
 
 DEFAULT_CONFIG: Dict[str, Any] = {
-    "editor-command": f"{os.environ.get('EDITOR', 'vim')} -- %s",
+    "editor-command": f"{os.environ.get('EDITOR', 'nvim')} -- %s",
     "blog-dir": "b",
     "git-url": "/git",
     "py-markdown-extensions": [
