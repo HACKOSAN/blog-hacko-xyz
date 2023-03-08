@@ -41,6 +41,7 @@ if NOT_CI_BUILD:
     import readline
     from atexit import register as fn_register
 
+
 EXIT_OK: int = 0
 EXIT_ERR: int = 1
 
